@@ -1,6 +1,6 @@
-# niceao-cdn
+# img
 
-[JSD文件链接界面](https://cdn.jsdelivr.net/gh/niceao/imgimgimg/)
+[JSD文件链接界面](https://cdn.jsdelivr.net/gh/niceao/img/)
 
 ## 预览
 
